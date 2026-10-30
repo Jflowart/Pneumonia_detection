@@ -1,0 +1,9 @@
+data/
+notebooks/logs/
+*.h5
+*.keras
+*.tfevents*
+*.pb
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
